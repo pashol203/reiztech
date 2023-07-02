@@ -1,0 +1,39 @@
+body {
+  background-image: linear-gradient(90deg, black,white);
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 30px;
+}
+
+.saidbar{
+background-image: linear-gradient(90deg,white,black);
+padding: 130px;
+}
+
+
+.denomination {
+  display: flex;
+  flex-direction: row;
+  line-height: 30%;
+}
+
+.table{
+  width: 70%;
+  text-align:left;
+  padding: 20px;
+}
+
+.a2{
+  margin-left: 330px;
+}
+.p3{
+margin-left: 50px;
+}
